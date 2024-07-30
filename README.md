@@ -6,6 +6,9 @@ Clusterização de Vendas de Tesouso Direto - Brasil de Jan/02
 ### Vendas do Tesouro Direto
 Este conjunto de dados traz o volume de vendas diário do programa Tesouro Direto. Os dados de vendas são apresentados também por tipo de título e por data de vencimento do título. No Tesouro Direto não são mais vendidos títulos com prazo de vencimento inferior a 1 ano.
 
+![image](https://github.com/user-attachments/assets/87471697-1aa5-4ee9-989d-3bc1cb926394)
+
+
 #### DIMENSÃO TEMPORAL
 * Início - Jan/02
 * Fim - Série em curso
