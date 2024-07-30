@@ -8,6 +8,9 @@ Este conjunto de dados traz o volume de vendas diário do programa Tesouro Diret
 
 ![image](https://github.com/user-attachments/assets/87471697-1aa5-4ee9-989d-3bc1cb926394)
 
+### Avaliamos tb específicamente o ano de 2024:
+![image](https://github.com/user-attachments/assets/bdaec43e-a5ff-4f1b-beeb-eab1f3d198d5)
+
 
 #### DIMENSÃO TEMPORAL
 * Início - Jan/02
